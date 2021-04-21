@@ -1,0 +1,77 @@
+﻿.infoWindow{
+	background-color:white;	
+	border:thick;
+	border-color:black;
+	height:"auto";
+	width:350px;
+	margin-left:50px;
+	text-align:center;
+}
+
+.infoWindow.sch{
+	height: 50px;
+	width:30%;
+	float:left;
+}
+.infoWindow.res{
+	
+	width:30%;
+	float:left;
+}
+.workWindow {
+	
+	background-color:white;
+	width:300px;
+	height:auto;
+	margin-right:50px;
+	float:right;
+	text-align:center;
+}
+.workWindow.sch{
+	
+	width:55%;
+	
+}
+.workWindow.res{
+	
+	width:55%;
+	
+	
+}
+.backgroundPhoto2{
+	width:1024px;
+	height:683px;
+	background-repeat:no-repeat;
+	margin: auto;
+}
+.backgroundPhoto.rva{
+	
+	background-image:url('../images/Schedule.jpg');
+	background-size: 1024px;
+	background-repeat: repeat-y;
+
+}
+.backgroundPhoto.sch{
+	
+	background-image:url('../images/cReservation.jpg');
+	background-size: 1024px;
+	background-repeat: repeat;
+}
+.backgroundPhoto.con{
+	
+	background-image:url('../images/Contact.jpg');
+	background-size: 1024px;
+	background-repeat: no-repeat;
+}
+.backgroundPhoto.cus{
+	
+	background-image:url('../images/Customer.jpg');
+	background-size: 1024px;
+	background-repeat: no-repeat;
+.customerTable{
+	
+	width:50%;
+	margin-left:25%;
+	margin-right:25%;
+}
+

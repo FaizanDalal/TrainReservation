@@ -1,0 +1,132 @@
+.SpeedyLogo.admin{
+
+	background-image:url('../images/SpeedyTransitAdminLogo.png');
+
+}
+
+.backgroundPhoto.ah{
+	
+	background-image:url('../images/AdminHome.png');
+	display:table;
+
+}
+
+.backgroundPhoto.sr{
+	
+	background-image:url('../images/SalesReport.jpg');
+	display:table;
+
+}
+
+.backgroundPhoto.ac{
+	
+	background-image:url('../images/Tracks.jpg');
+
+}
+
+.backgroundPhoto.res{
+	
+	background-image:url('../images/Reservation.jpg');
+
+}
+
+.backgroundPhoto.rev{
+	
+	background-image:url('../images/Calculator.jpg');
+	height: 1000px;
+
+}
+
+.infoWindow{
+	background-color:white;	
+	border:thick;
+	border-color:red;
+	height:"auto";
+	width:350px;
+	margin-left:75px;
+	text-align:center;
+
+}
+
+.infoWindow.sales{
+	
+	width:35%;
+	float:left;
+
+}
+
+.adminTable{
+	
+	width:50%;
+	margin-left:25%;
+	margin-right:25%;
+
+}
+
+.adminWorkWindow {
+	
+	background-color:red;
+	width:300px;
+	height:auto;
+	margin-right:75px;
+	float:right;
+	text-align:center;
+
+}
+
+.adminWorkWindow.sr{
+	
+	width:50%;
+	
+
+}
+
+.adminWorkWindow.rr{
+	
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:white;	
+	float:none;
+
+}
+
+.adminWorkWindow.bc{
+	
+	width:30%;
+	height: 75px;
+	margin-right:10%;
+	background-color: #000000;
+	color: #ffffff;
+
+}
+
+.adminWorkWindow.bl{
+	
+	width:30%;
+	height: auto;
+	margin-left:10%;
+	margin-right: 10%;
+	background-color: #000000;
+	color: #ffffff;
+	float: right;
+
+}
+
+.adminWorkWindow.bestInset{
+	
+	height:auto;
+	width:auto;
+	margin-left:10%;
+	margin-right:10%;
+	background-color: #ff0000;
+	color: #ffffff;
+	float:none;
+
+}
+
+
+
+
+
+
